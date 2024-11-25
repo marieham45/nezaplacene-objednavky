@@ -5,7 +5,6 @@ Upravte soubor app.js tak, aby nachystal dvě nová pole identifikatory a emaily
 
 Pole const identifikatory = []a const emaily = [] jsou již předpřipravené. Upravte části za rovnítky. Využijte metodu map na poli nezaplaceneObjednavky.
 
-
 Poslední dva předchystané řádky nijak neupravujte. Představte si, že místo nich bude jednou kód, který předá vámi vytvořená pole dalším systémům.
 
 processEmails(emaily);
